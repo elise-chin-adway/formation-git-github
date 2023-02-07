@@ -1,3 +1,0 @@
-label encoding
-collegue
-moi
